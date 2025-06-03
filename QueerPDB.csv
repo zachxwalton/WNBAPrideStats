@@ -1,0 +1,146 @@
+,PERSON_ID,PLAYER_NAME,TEAM_NAME,TEAM_ABBREVIATION,JERSEY_NUMBER,POSITION,HEIGHT,WEIGHT,COLLEGE,COUNTRY,DRAFT_YEAR,DRAFT_ROUND,DRAFT_NUMBER,PTS,REB,AST,FROM_YEAR,TO_YEAR,QUEER
+20,1628263,Lindsay Allen,Chicago Sky,CHI,15,G,5-8,145,Notre Dame,USA,2017.0,2.0,14.0,6.6,2.0,3.9,2017,2025,
+21,204296,Rebecca Allen,Phoenix Mercury,PHO,11,F-G,6-2,162,Melbourne,Australia,,,,7.4,3.9,1.1,2015,2025,
+26,1641656,Laeticia Amihere,Atlanta Dream,ATL,7,F,6-3,185,South Carolina,Canada,2023.0,1.0,8.0,1.1,1.6,0.2,2023,2024,
+42,1628878,Ariel Atkins,Washington Mystics,WAS,7,G,5-10,167,Texas-Austin,USA,2018.0,1.0,7.0,14.9,3.4,3.1,2018,2025,
+45,1631056,Amy Atwell,Phoenix Mercury,PHO,8,G,6-0,165,Hawaii,Australia,2022.0,3.0,27.0,2.5,1.0,1.0,2022,2024,
+47,1631022,Shakira Austin,Washington Mystics,WAS,0,F-C,6-5,190,Mississippi,USA,2022.0,1.0,3.0,11.8,6.8,0.9,2022,2025,
+58,1627671,Rachel Banham,Chicago Sky,CHI,24,G,5-10,181,Minnesota,USA,2016.0,1.0,4.0,5.7,1.4,1.1,2016,2025,
+73,1631006,Kierstan Bell,Las Vegas Aces,LVA,1,F,6-1,176,Florida Gulf Coast,USA,2022.0,1.0,11.0,2.8,1.0,0.8,2022,2025,1.0
+80,1641658,Grace Berger,Indiana Fever,IND,34,G,6-0,160,Indiana,USA,2023.0,1.0,7.0,2.8,1.4,0.6,2023,2024,
+87,1641698,Caitlin Bickle,Connecticut Sun,CON,51,F,6-1,,Baylor,USA,,,,0.0,0.0,0.0,2024,2024,
+88,1628881,Monique Billings,Phoenix Mercury,PHO,25,F,6-4,192,UCLA,USA,2018.0,2.0,15.0,7.4,5.8,1.4,2018,2025,
+106,201886,DeWanna Bonner,Connecticut Sun,CON,24,G-F,6-4,140,Auburn,USA,2009.0,1.0,5.0,15.0,6.0,2.0,2009,2025,1.0
+108,1641648,Aliyah Boston,Indiana Fever,IND,7,C-F,6-5,220,South Carolina,USA,2023.0,1.0,1.0,14.0,8.9,3.2,2023,2025,
+126,1642287,Cameron Brink,Los Angeles Sparks,LAS,22,F,6-4,170,Stanford,USA,2024.0,1.0,2.0,7.5,5.3,1.7,2024,2025,
+133,1642240,Jaelyn Brown,Dallas Wings,DAL,18,G-F,6-1,170,California,USA,,,,2.6,1.5,0.4,2024,2025,
+134,1629480,Kalani Brown,Dallas Wings,DAL,21,C,6-7,245,Baylor,USA,2019.0,1.0,7.0,5.7,3.1,1.1,2019,2025,
+139,1628882,Lexie Brown,Los Angeles Sparks,LAS,4,G,5-9,162,Duke,USA,2018.0,1.0,9.0,8.1,2.3,3.3,2018,2025,
+153,1629568,Kennedy Burke,New York Liberty,NYL,2,G-F,6-1,182,UCLA,USA,2019.0,2.0,22.0,3.4,1.5,0.9,2019,2025,
+155,1630996,Rae Burrell,Los Angeles Sparks,LAS,12,G-F,6-2,168,Tennessee,USA,2022.0,1.0,9.0,5.9,1.8,1.1,2022,2025,
+157,1631007,Veronica Burton,Connecticut Sun,CON,22,G,5-9,155,Northwestern,USA,2022.0,1.0,7.0,3.1,1.4,1.9,2022,2025,
+163,1630471,Maya Caldwell,Atlanta Dream,ATL,33,G,5-11,160,Georgia,USA,2021.0,3.0,33.0,5.2,1.8,1.1,2022,2025,
+168,1628886,Jordin Canada,Atlanta Dream,ATL,3,G,5-6,135,UCLA,USA,2018.0,1.0,5.0,10.6,3.5,5.8,2018,2025,1.0
+171,1642289,Kamilla Cardoso,Chicago Sky,CHI,10,C,6-7,215,South Carolina,Brazil,2024.0,1.0,3.0,9.8,7.9,1.7,2024,2025,
+173,1629524,Bridget Carleton,Minnesota Lynx,MIN,6,F,6-2,177,Iowa State,Canada,2019.0,2.0,21.0,9.6,3.8,2.2,2019,2025,
+174,1630096,DiJonai Carrington,Connecticut Sun,CON,21,G-F,5-11,175,Baylor,USA,2021.0,2.0,20.0,12.7,5.0,1.6,2021,2025,
+178,1630150,Chennedy Carter,Chicago Sky,CHI,7,G,5-9,143,Texas A&M,USA,2020.0,1.0,4.0,17.5,3.5,3.1,2020,2024,
+195,202250,Tina Charles,Atlanta Dream,ATL,31,C,6-4,192,Connecticut,USA,2010.0,1.0,1.0,14.9,9.6,2.3,2010,2025,
+206,203406,Layshia Clarendon,Los Angeles Sparks,LAS,25,G,5-9,158,California,USA,2013.0,1.0,9.0,4.3,1.8,2.6,2013,2024,
+207,202252,Alysha Clark,Las Vegas Aces,LVA,7,F,5-11,167,Middle Tennessee,USA,2010.0,2.0,17.0,6.0,3.6,1.8,2012,2025,
+208,1642286,Caitlin Clark,Indiana Fever,IND,22,G,6-0,157,Iowa,USA,2024.0,1.0,1.0,19.2,5.7,8.4,2024,2025,
+213,204333,Natasha Cloud,Phoenix Mercury,PHO,0,G,5-10,160,St. Joseph's (PA),USA,2015.0,2.0,15.0,11.5,4.1,6.9,2015,2025,1.0
+216,1628269,Nia Coffey,Atlanta Dream,ATL,12,F,6-1,182,Northwestern,USA,2017.0,1.0,5.0,3.3,2.4,1.2,2017,2025,
+224,1629483,Napheesa Collier,Minnesota Lynx,MIN,24,F,6-1,180,Connecticut,USA,2019.0,1.0,6.0,20.4,9.7,3.4,2019,2025,
+225,202641,Sydney Colson,Las Vegas Aces,LVA,51,G,5-8,137,Texas A&M,USA,2011.0,2.0,16.0,2.5,0.5,1.0,2011,2025,1.0
+229,1641660,Zia Cooke,Los Angeles Sparks,LAS,1,G,5-9,163,South Carolina,USA,2023.0,1.0,10.0,3.6,0.6,0.6,2023,2025,
+233,1627674,Kahleah Copper,Phoenix Mercury,PHO,2,G-F,6-1,165,Rutgers,USA,2016.0,1.0,7.0,21.1,4.5,2.3,2016,2025,1.0
+242,1631032,Lorela Cubaj,Atlanta Dream,ATL,19,F-C,6-4,200,Georgia Tech,Italy,2022.0,2.0,18.0,1.2,1.5,0.5,2022,2024,
+246,1629482,Sophie Cunningham,Phoenix Mercury,PHO,9,G,6-1,165,Missouri,USA,2019.0,2.0,13.0,8.4,3.9,2.0,2019,2025,
+252,1630101,Crystal Dangerfield,Los Angeles Sparks,LAS,14,G,5-5,130,Connecticut,USA,2020.0,2.0,16.0,3.2,1.0,1.9,2020,2024,
+253,203024,Damiris Dantas,Indiana Fever,IND,12,C-F,6-4,214,Real Celta Vigo,Brazil,2012.0,1.0,12.0,4.5,2.2,0.6,2014,2025,
+258,1628273,Kaela Davis,Chicago Sky,CHI,33,F,6-2,180,South Carolina,USA,2017.0,1.0,10.0,3.0,1.0,0.3,2017,2024,
+259,1642301,Marquesha Davis,New York Liberty,NYL,1,G,6-0,,Mississippi,USA,2024.0,1.0,11.0,1.2,0.5,0.2,2024,2025,
+264,1628890,Diamond DeShields,Chicago Sky,CHI,0,G,6-1,172,Tennessee,USA,2018.0,1.0,3.0,4.5,1.4,1.3,2018,2024,
+272,203400,Skylar Diggins,Seattle Storm,SEA,4,G,5-9,140,Notre Dame,USA,2013.0,1.0,3.0,15.1,2.6,6.4,2013,2025,
+277,1641602,Ivana Dojkić,New York Liberty,NYL,18,G,5-11,154,                                   ,Croatia,,,,3.3,0.8,0.8,2023,2024,
+278,203828,Stefanie Dolson,Washington Mystics,WAS,31,C,6-5,235,Connecticut,USA,2014.0,1.0,6.0,9.5,4.9,2.6,2014,2025,1.0
+294,1642290,Aaliyah Edwards,Washington Mystics,WAS,24,F,6-3,,Connecticut,Canada,2024.0,1.0,6.0,7.6,5.6,1.4,2024,2025,
+299,1631031,Queen Egbo,Las Vegas Aces,LVA,4,F-C,6-4,190,Baylor,USA,2022.0,1.0,10.0,1.5,1.3,0.0,2022,2024,
+304,1631083,Emily Engstler,Washington Mystics,WAS,21,F,6-1,180,Louisville,USA,2022.0,1.0,4.0,6.2,4.0,1.5,2022,2025,1.0
+309,1630389,Dana Evans,Chicago Sky,CHI,11,G,5-6,145,Louisville,USA,2021.0,2.0,13.0,7.2,1.1,2.4,2021,2025,
+323,1630142,Leonie Fiebich,New York Liberty,NYL,13,F,6-4,,,Germany,2020.0,2.0,22.0,6.7,3.0,1.8,2024,2025,1.0
+345,1627701,Temi Fágbénlé,Indiana Fever,IND,14,C,6-4,180,Southern California,United Kingdom,2016.0,3.0,35.0,6.4,4.7,0.9,2017,2025,
+381,1628277,Allisha Gray,Atlanta Dream,ATL,15,G,6-0,167,South Carolina,USA,2017.0,1.0,4.0,15.6,4.4,2.7,2017,2025,
+382,203833,Chelsea Gray,Las Vegas Aces,LVA,12,G,5-11,170,Duke,USA,2014.0,1.0,11.0,8.6,2.9,4.9,2015,2025,1.0
+392,203398,Brittney Griner,Phoenix Mercury,PHO,42,C,6-9,205,Baylor,USA,2013.0,1.0,1.0,17.8,6.6,2.3,2013,2025,1.0
+397,1629484,Megan Gustafson,Las Vegas Aces,LVA,17,C,6-4,195,Iowa,USA,2019.0,2.0,17.0,3.7,1.9,0.2,2019,2025,
+407,204324,Dearica Hamby,Los Angeles Sparks,LAS,5,F,6-3,189,Wake Forest,USA,2015.0,1.0,6.0,17.3,9.2,3.5,2015,2025,
+421,1630112,Tyasha Harris,Connecticut Sun,CON,52,G,5-10,152,South Carolina,USA,2020.0,1.0,7.0,10.5,1.8,3.0,2020,2025,1.0
+422,204330,Isabelle Harrison,Chicago Sky,CHI,20,F,6-3,183,Tennessee,USA,2015.0,1.0,12.0,6.5,3.9,0.8,2016,2025,1.0
+430,203026,Tiffany Hayes,Las Vegas Aces,LVA,15,G,5-10,155,Connecticut,USA,2012.0,2.0,14.0,9.5,2.8,2.1,2012,2025,1.0
+440,1630114,Mikiah Herbert Harrigan,Phoenix Mercury,PHO,21,F,6-2,152,South Carolina,USA,2020.0,1.0,6.0,3.2,1.5,0.3,2020,2024,
+445,1629567,Natisha Hiedeman,Minnesota Lynx,MIN,2,G,5-8,132,Marquette,USA,2019.0,2.0,18.0,4.9,1.6,2.4,2019,2025,1.0
+449,1631044,Naz Hillmon,Atlanta Dream,ATL,00,F,6-2,190,Michigan,USA,2022.0,2.0,15.0,5.7,4.8,1.3,2022,2025,
+451,1628899,Myisha Hines-Allen,Minnesota Lynx,MIN,22,F,6-1,200,Louisville,USA,2018.0,2.0,19.0,7.8,4.7,2.6,2018,2025,
+462,1630115,Joyner Holmes,Seattle Storm,SEA,8,F,6-3,210,University of Texas at Austin,USA,2020.0,2.0,19.0,2.9,1.8,0.9,2020,2024,
+471,1641651,Jordan Horston,Seattle Storm,SEA,23,F,6-2,165,Tennessee,USA,2023.0,1.0,9.0,6.8,4.3,1.8,2023,2024,
+476,203827,Natasha Howard,Dallas Wings,DAL,6,F,6-3,172,Florida State,USA,2014.0,1.0,5.0,17.6,6.7,2.9,2014,2025,1.0
+477,1631009,Rhyne Howard,Atlanta Dream,ATL,10,G,6-2,175,Kentucky,USA,2022.0,1.0,1.0,17.3,4.4,3.1,2022,2025,
+480,1631086,Lexie Hull,Indiana Fever,IND,10,G,6-1,155,Stanford,USA,2022.0,1.0,6.0,5.5,2.5,1.1,2022,2025,
+483,1629477,Sabrina Ionescu,New York Liberty,NYL,20,G,5-11,165,Oregon,USA,2020.0,1.0,1.0,18.2,4.4,6.2,2020,2025,
+493,1642288,Rickea Jackson,Los Angeles Sparks,LAS,2,F,6-2,175,Tennessee,USA,2024.0,1.0,4.0,13.4,3.9,1.5,2024,2025,
+504,1627669,Moriah Jefferson,Chicago Sky,CHI,4,G,5-6,130,Connecticut,USA,2016.0,1.0,2.0,1.3,0.4,1.3,2016,2025,
+528,1628280,Brionna Jones,Connecticut Sun,CON,42,F,6-3,215,Maryland,USA,2017.0,1.0,8.0,13.7,5.5,1.5,2017,2025,
+530,1641650,Haley Jones,Atlanta Dream,ATL,13,F-G,6-1,187,Stanford,USA,2023.0,1.0,6.0,3.9,2.2,2.1,2023,2025,
+533,1627673,Jonquel Jones,New York Liberty,NYL,35,C,6-6,215,George Washington,Bahamas,2016.0,1.0,6.0,14.2,9.0,3.2,2016,2025,1.0
+539,1641657,Dorka Juhász,Minnesota Lynx,MIN,14,F,6-5,191,Connecticut,Hungary,2023.0,2.0,16.0,4.8,3.8,1.1,2023,2024,
+540,1642534,Ezinne Kalu,Atlanta Dream,ATL,,G,5-8,,Savannah State,USA,,,,3.0,1.0,0.0,2024,2024,
+556,1631021,Sika Koné,Washington Mystics,WAS,3,F,6-3,180,Spain,Mali,2022.0,3.0,29.0,4.0,2.0,0.4,2023,2025,
+575,204335,Betnijah Laney-Hamilton,New York Liberty,NYL,44,G-F,6-0,166,Rutgers,USA,2015.0,2.0,17.0,11.8,4.2,3.3,2015,2024,
+607,1641661,Lou Lopez Sénéchal,Dallas Wings,DAL,8,G,6-1,155,Connecticut,France,2023.0,1.0,5.0,0.9,0.4,0.4,2023,2024,
+610,204319,Jewell Loyd,Seattle Storm,SEA,24,G,5-11,175,Notre Dame,USA,2015.0,1.0,1.0,19.7,4.5,3.6,2015,2025,1.0
+616,1629497,Marina Mabrey,Connecticut Sun,CON,4,G,5-11,170,Notre Dame,USA,2019.0,2.0,19.0,14.4,4.4,4.1,2019,2025,
+621,1630442,Natasha Mack,Phoenix Mercury,PHO,4,F-C,6-4,182,Oklahoma State,USA,2021.0,2.0,16.0,3.8,5.0,1.1,2021,2025,1.0
+623,1629496,Ezi Magbegor,Seattle Storm,SEA,13,F-C,6-4,181,Melbourne,Australia,2019.0,1.0,12.0,11.7,8.0,2.0,2020,2025,
+639,1642324,Kate Martin,Las Vegas Aces,LVA,20,G,6-0,172,Iowa,USA,2024.0,2.0,18.0,2.6,1.6,0.9,2024,2025,1.0
+651,203825,Kayla McBride,Minnesota Lynx,MIN,21,G,5-11,179,Notre Dame,USA,2014.0,1.0,3.0,15.0,2.6,3.2,2014,2025,1.0
+660,1629479,Teaira McCowan,Dallas Wings,DAL,15,C,6-7,239,Mississippi State,USA,2019.0,1.0,3.0,11.7,8.1,1.6,2019,2025,
+666,1630462,Aari McDonald,Los Angeles Sparks,LAS,15,G,5-6,141,Arizona,USA,2021.0,1.0,3.0,8.7,2.0,3.7,2021,2025,
+674,1631141,Jade Melbourne,Washington Mystics,WAS,5,G,5-10,145,,Australia,2022.0,3.0,33.0,5.4,1.5,1.6,2023,2025,
+684,1641649,Diamond Miller,Minnesota Lynx,MIN,1,F,6-3,178,Maryland,USA,2023.0,1.0,2.0,2.9,1.8,0.6,2023,2025,
+691,1628909,Kelsey Mitchell,Indiana Fever,IND,0,G,5-8,155,Ohio State,USA,2018.0,1.0,2.0,19.2,2.5,1.8,2018,2025,
+693,1627676,Tiffany Mitchell,Connecticut Sun,CON,3,G,5-9,169,South Carolina,USA,2016.0,1.0,9.0,4.9,1.5,0.8,2016,2025,
+728,1642299,Nika Mühl,Seattle Storm,SEA,1,G,6-0,156,Connecticut,USA,2024.0,2.0,14.0,0.1,0.6,0.4,2024,2024,
+735,203838,Astou Ndour-Fall,Connecticut Sun,CON,45,C-F,6-5,173,Gran Canaria,Spain,2014.0,2.0,16.0,1.1,0.8,0.0,2014,2024,
+736,1631135,Olivia Nelson-Ododa,Connecticut Sun,CON,10,C,6-5,176,Connecticut,USA,2022.0,2.0,19.0,3.4,2.5,0.2,2022,2025,
+748,1628915,Kia Nurse,Los Angeles Sparks,LAS,10,G,6-0,181,Connecticut,Canada,2018.0,1.0,10.0,7.6,1.6,1.3,2018,2025,
+756,1629481,Arike Ogunbowale,Dallas Wings,DAL,24,G,5-8,165,Notre Dame,USA,2019.0,1.0,5.0,22.2,4.6,5.1,2019,2025,1.0
+758,203014,Nneka Ogwumike,Seattle Storm,SEA,3,F,6-2,190,Stanford,USA,2012.0,1.0,1.0,16.7,7.6,2.3,2012,2025,
+762,1630446,Michaela Onyenwere,Chicago Sky,CHI,12,F,6-0,178,UCLA,USA,2021.0,1.0,6.0,6.6,1.8,1.0,2021,2025,
+764,1642294,Charisma Osborne,Phoenix Mercury,PHO,24,G,5-9,166,-,USA,2024.0,3.0,25.0,1.0,0.5,0.5,2024,2024,
+777,204323,Cheyenne Parker-Tyus,Atlanta Dream,ATL,32,F,6-4,193,Middle Tennessee,USA,2015.0,1.0,5.0,9.2,4.8,1.5,2015,2025,
+803,1642293,Alissa Pili,Minnesota Lynx,MIN,35,F,5-11,235,Utah,USA,2024.0,1.0,8.0,2.4,1.2,0.2,2024,2025,
+805,1628276,Kelsey Plum,Las Vegas Aces,LVA,10,G,5-8,145,Washington,USA,2017.0,1.0,1.0,17.8,2.6,4.2,2017,2025,
+814,1627672,Aerial Powers,Atlanta Dream,ATL,23,G,5-11,170,Michigan State,USA,2016.0,1.0,5.0,8.6,3.3,1.4,2016,2024,
+840,1642291,Angel Reese,Chicago Sky,CHI,5,F,6-3,165,Louisiana State,USA,2024.0,1.0,7.0,13.6,13.1,1.9,2024,2025,
+863,1628920,Mercedes Russell,Seattle Storm,SEA,21,C,6-6,195,Tennessee,USA,2018.0,2.0,22.0,3.9,3.0,0.8,2018,2025,
+865,1631055,Nyara Sabally,New York Liberty,NYL,8,C,6-5,204,Oregon,Germany,2022.0,1.0,5.0,4.9,4.0,0.6,2023,2025,
+866,1630149,Satou Sabally,Dallas Wings,DAL,0,F,6-4,175,Oregon,Germany,2020.0,1.0,2.0,17.9,6.4,5.0,2020,2025,
+871,1628317,Karlie Samuelson,Washington Mystics,WAS,44,G,6-0,162,Stanford,USA,,,,8.4,2.6,2.1,2018,2025,
+872,1629478,Katie Lou Samuelson,Indiana Fever,IND,33,F,6-3,163,Connecticut,USA,2019.0,1.0,4.0,4.3,2.3,1.4,2019,2025,
+885,1641687,Victaria Saxton,Indiana Fever,IND,5,F,6-2,181,South Carolina,USA,2023.0,3.0,25.0,0.9,0.3,0.0,2023,2024,
+894,1642292,Jacy Sheldon,Dallas Wings,DAL,4,G,5-10,140,Ohio State,USA,2024.0,1.0,5.0,5.4,2.1,2.5,2024,2025,
+897,1642320,Jaylyn Sherrod,New York Liberty,NYL,0,G,5-7,,Colorado,USA,,,,1.9,0.3,0.5,2024,2025,1.0
+901,1641652,Maddy Siegrist,Dallas Wings,DAL,20,F,6-2,175,Villanova,USA,2023.0,1.0,3.0,9.4,3.3,1.0,2023,2025,
+905,203824,Odyssey Sims,Los Angeles Sparks,LAS,6,G,5-8,155,Baylor,USA,2014.0,1.0,2.0,12.6,2.1,5.3,2014,2025,
+914,1629501,Alanna Smith,Minnesota Lynx,MIN,8,F,6-4,177,Stanford,Australia,2019.0,1.0,8.0,10.1,5.6,3.2,2019,2025,
+926,1631019,NaLyssa Smith,Indiana Fever,IND,1,F,6-4,185,Baylor,USA,2022.0,1.0,2.0,10.6,7.1,1.0,2022,2025,
+932,1641654,Stephanie Soares,Dallas Wings,DAL,10,C,6-6,196,Iowa State,USA,2023.0,1.0,4.0,1.1,2.1,0.5,2024,2024,
+944,1628922,Azurá Stevens,Los Angeles Sparks,LAS,23,F-C,6-6,180,Connecticut,USA,2018.0,1.0,6.0,9.6,7.0,1.9,2018,2025,
+946,1627668,Breanna Stewart,New York Liberty,NYL,30,F,6-4,170,Connecticut,USA,2016.0,1.0,1.0,20.4,8.5,3.5,2016,2025,1.0
+952,204329,Kiah Stokes,Las Vegas Aces,LVA,41,C,6-3,191,Connecticut,USA,2015.0,1.0,11.0,1.4,4.7,0.7,2015,2025,
+958,1630134,Sug Sutton,Washington Mystics,WAS,1,G,5-8,140,Texas-Austin,USA,2020.0,3.0,36.0,2.3,1.0,2.1,2020,2025,1.0
+964,1628279,Brittney Sykes,Washington Mystics,WAS,20,G,5-9,154,Syracuse,USA,2017.0,1.0,7.0,12.2,4.1,3.1,2017,2025,1.0
+965,203855,Stephanie Talbot,Los Angeles Sparks,LAS,7,F,6-2,192,Adelaide,Australia,2014.0,3.0,33.0,3.5,2.7,2.1,2017,2025,
+968,100940,Diana Taurasi,Phoenix Mercury,PHO,3,G,6-0,163,Connecticut,USA,2004.0,1.0,1.0,14.9,3.8,3.4,2004,2024,
+970,1642298,Celeste Taylor,Phoenix Mercury,PHO,12,G,5-11,167,Ohio State,USA,2024.0,2.0,15.0,2.6,1.3,1.3,2024,2024,
+977,203826,Alyssa Thomas,Connecticut Sun,CON,25,F,6-2,203,Maryland,USA,2014.0,1.0,4.0,10.6,8.4,7.9,2014,2025,1.0
+990,203866,Kayla Thornton,New York Liberty,NYL,5,F,6-1,190,Texas-El Paso,USA,,,,5.5,2.6,0.7,2015,2025,
+1009,1629488,Brianna Turner,Chicago Sky,CHI,21,F-C,6-3,175,Notre Dame,USA,2019.0,1.0,11.0,1.2,2.0,0.4,2019,2025,
+1017,1642244,Sevgi Uzun,Dallas Wings,DAL,1,G,5-10,141,-,Turkey,,,,4.4,1.6,3.0,2024,2025,1.0
+1022,202664,Courtney Vandersloot,New York Liberty,NYL,22,G,5-8,137,Gonzaga,USA,2011.0,1.0,3.0,6.4,2.6,4.8,2011,2025,1.0
+1023,1642210,Julie Vanloo,Washington Mystics,WAS,35,G,5-8,,-,Belgium,,,,7.4,1.6,4.3,2024,2025,
+1030,1628927,Victoria Vivians,Seattle Storm,SEA,35,G-F,6-1,197,Mississippi State,USA,2018.0,1.0,8.0,3.1,2.0,0.8,2018,2024,
+1040,1628278,Shatori Walker-Kimbrough,Washington Mystics,WAS,32,G,5-9,140,Maryland,USA,2017.0,1.0,6.0,7.5,1.7,1.9,2017,2025,
+1041,1628929,Kristy Wallace,Indiana Fever,IND,3,G,5-11,157,Baylor,Australia,2018.0,2.0,16.0,4.7,1.8,1.7,2022,2024,
+1056,204365,Erica Wheeler,Indiana Fever,IND,17,G,5-7,143,Rutgers,USA,,,,3.6,1.4,1.8,2015,2025,1.0
+1057,1628244,Sami Whitcomb,Seattle Storm,SEA,32,G,5-10,149,Washington,Australia,,,,5.0,1.9,1.6,2017,2025,1.0
+1075,1627675,Courtney Williams,Minnesota Lynx,MIN,10,G,5-8,148,South Florida,USA,2016.0,1.0,8.0,11.1,4.7,5.5,2016,2025,1.0
+1077,204322,Elizabeth Williams,Chicago Sky,CHI,1,C-F,6-3,200,Duke,United Kingdom,2015.0,1.0,4.0,10.0,7.0,1.6,2015,2025,
+1078,1628931,Gabby Williams,Seattle Storm,SEA,5,F,5-11,172,Connecticut,USA,2018.0,1.0,4.0,10.3,4.0,3.7,2018,2025,1.0
+1095,1628932,A'ja Wilson,Las Vegas Aces,LVA,22,C,6-4,195,South Carolina,USA,2018.0,1.0,1.0,26.9,11.9,2.3,2018,2025,
+1117,1629498,Jackie Young,Las Vegas Aces,LVA,0,G,6-0,165,Notre Dame,USA,2019.0,1.0,1.0,15.8,4.4,5.3,2019,2025,
+1121,1629574,Li Yueru,Los Angeles Sparks,LAS,28,C,6-7,,,China,2019.0,3.0,35.0,5.1,3.7,0.6,2022,2025,
+1124,1628508,Cecilia Zandalasini,Minnesota Lynx,MIN,9,F,6-2,175,PF Schio,Italy,,,,4.6,1.2,1.1,2017,2025,
+1134,1630151,Olivia Époupa,Minnesota Lynx,MIN,0,G,5-5,122,,France,,,,0.8,1.1,1.5,2024,2024,
